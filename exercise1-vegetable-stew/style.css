@@ -1,0 +1,65 @@
+body {
+    width: 60%;
+    margin: 1.66%;  
+    font-family: Open sans;
+    font-weight: 300;
+}
+
+img {
+    width: 60%;
+    float: left;
+    margin-right: 1.66%;
+    margin-left: 1.66%
+    
+}
+
+hr {
+    margin: 0.5%;
+    width: 100%;
+}
+
+
+h3 {
+    font-style: normal;
+}
+
+h2 {
+    margin-left: 1.66%;
+}
+
+h1 {
+    margin-left: 1.66%;
+}
+
+.top-page {
+    margin-top: 3.44%;
+}
+
+
+
+
+.sidebar dt {
+    float: left;
+    font-weight: 400
+    
+}
+
+.ingredient-list {
+    float: left;
+}
+
+.bottom-page {
+    float: left;
+    widows: 60%;
+    margin-bottom: 5%
+}
+
+li {
+    width: 60%;
+}
+
+.description {
+    margin: 1.66%;
+    width: 60%;
+    float: left;
+}
